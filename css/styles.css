@@ -52,3 +52,14 @@ body
     background: whitesmoke;
     padding: 1em;
 }
+
+#footer
+{
+	background: blueviolet;
+	color: white;
+	text-align: center;
+	padding: 0.5em;
+	font-weight: bold;
+	font-family:"Arial";
+	font-size:0.8em;
+}
